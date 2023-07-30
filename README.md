@@ -3,7 +3,7 @@ Module 15: HTML/Javascript/Leaflet/GeoJSON
 
 ## Part 1: Creating an Earthquake Visualization
 
-In this challenge, you are tasked with helping the United States Geological Survey (USGS) with developing a way to visualize USGS data that will allow them to better educate the public and other government organizations (and hopefully secure more funding), on issues facing our planet.
+In this challenge, you are tasked with helping the United States Geological Survey (USGS) with developing a way to visualize USGS data that will allow them to better educate the public and other government organizations (while simultaneously securing more funding), on issues facing our planet.
 
 1. Get your dataset. To do so, follow these steps:
   	- The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the [USGS GeoJSON Feed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page and choose a dataset to visualize. 
