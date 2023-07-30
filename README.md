@@ -13,3 +13,10 @@ Module 15: HTML/Javascript/Leaflet/GeoJSON
 		- Your data markers should reflect the magnitude of the earthquake by their size and the depth of the earthquake by color. Earthquakes with higher magnitudes should appear larger, and earthquakes with greater depth should appear darker in color.
 		- Include popups that provide additional information about the earthquake when its associated marker is clicked.
 		- Create a legend that will provide context for your map data.
+
+## Resources
+1. Modules 15: In Class Activities
+2. Collaborated with fellow classmates
+3. Class Instructor: Arooj A Qureshi
+4. TA Instructor: Abdelrahman "Abdo" Elewah
+5. 1 x Ask BCS Learning Assistant
